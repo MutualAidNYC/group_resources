@@ -63,7 +63,11 @@ Draft community response kit from Vermont: https://docs.google.com/document/d/1d
 
 - Create a whatsapp group easily: http://joingroupchat.com, a completely free-to-use website that makes it easier to connect people through WhatsApp. The website lets group admins create custom and password protected (optional) WhatsApp group chat links. Contact: olivier@joingroupchat.com.
 
-- The NextDoor app may have some usefuyl features: https://lifehacker.com/help-your-neighbors-during-the-coronavirus-pandemic-wit-1842494646
+- The NextDoor app may have some useful features: https://lifehacker.com/help-your-neighbors-during-the-coronavirus-pandemic-wit-1842494646
+
+- Action Network has made their tools available to mutual aid groups: https://actionnetwork.org/forms/sign-up-to-use-action-builder-for-mutual-aid-work/
+
+- Mobilize Us has also offered their apps for free for Mutual Aid organizers: https://join.mobilize.us/free-access-for-covid-19
 
 ## Linking to available services:
 This is not an exhaustive list as it is not the focus of these resources, but if a local group is looking for what services are available, they could try:
