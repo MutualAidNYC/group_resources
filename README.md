@@ -63,6 +63,8 @@ Draft community response kit from Vermont: https://docs.google.com/document/d/1d
 
 - Create a whatsapp group easily: http://joingroupchat.com, a completely free-to-use website that makes it easier to connect people through WhatsApp. The website lets group admins create custom and password protected (optional) WhatsApp group chat links. Contact: olivier@joingroupchat.com.
 
+- The NextDoor app may have some usefuyl features: https://lifehacker.com/help-your-neighbors-during-the-coronavirus-pandemic-wit-1842494646
+
 ## Linking to available services:
 This is not an exhaustive list as it is not the focus of these resources, but if a local group is looking for what services are available, they could try:
 
