@@ -1,5 +1,4 @@
-# group_resources
-Resources for Mutual Aid groups to help get started and for ongoing management/operations 
+Resources to support Mutual Aid groups to get started and manage ongoing operations 
 
 ## Goals:	
 - To provide a directory of resources to support Mutual Aid networks get up and running quickly
@@ -54,7 +53,15 @@ Draft community response kit from Vermont: https://docs.google.com/document/d/1d
 
 (After reading these suggestions, if you decide you do not want to create a mutual aid group or there already is one you can join, and you still want to help out in other ways, consider looking up the Help with Covid site: https://helpwithcovid.com/)
 
-## Linking to available resources:
+## Ongoing management of your group
+- Get support from other Mutual Aid organisers: https://docs.google.com/forms/d/e/1FAIpQLSec5f4MHWMJ68wKfrRW7qhAvmo1F7vcbnSBIbZhAezaGAL8kQ/viewform?fbclid=IwAR3YeWILV84Z83HeI6cDjTvDSTnNgH7ZDIjEksPYFm1iSxCu-XpJd6gtNgs
+(Join this slack if you are a part of local mutual aid efforts and want to be connected to a large network of folks across the country learning how to do this together.)
+
+- How to set up a slack group for your mutual aid group or neighborhood pod: https://docs.google.com/document/d/1GHZ0fWeV1UIVV027wy96n-WUf_wvGrK1WuG_R5icZ7c/edit
+
+- Create a whatsapp group easily: http://joingroupchat.com, a completely free-to-use website that makes it easier to connect people through WhatsApp. The website lets group admins create custom and password protected (optional) WhatsApp group chat links. Contact: olivier@joingroupchat.com.
+
+## Linking to available services:
 This is not an exhaustive list as it is not the focus of these resources, but if a local group is looking for what services are available, they could try:
 
 - This database created by Bree G: https://docs.google.com/spreadsheets/u/0/d/1wYgRSXKwP8ry7t5KPpi5e2vwrA0hStebkwbO75ahyvw/htmlview#
@@ -95,12 +102,5 @@ Flyer template
 
 - Lincoln Sudbury template/flyer: https://docs.google.com/document/d/1cn5btAM7rxJoVR1pu8een13cno45FrFtjZvkIEWIKfQ/edit
 
-## Ongoing management of your group
-- Get support from other Mutual Aid organisers: https://docs.google.com/forms/d/e/1FAIpQLSec5f4MHWMJ68wKfrRW7qhAvmo1F7vcbnSBIbZhAezaGAL8kQ/viewform?fbclid=IwAR3YeWILV84Z83HeI6cDjTvDSTnNgH7ZDIjEksPYFm1iSxCu-XpJd6gtNgs
-(Join this slack if you are a part of local mutual aid efforts and want to be connected to a large network of folks across the country learning how to do this together.)
-
-- How to set up a slack group for your mutual aid group or neighborhood pod: https://docs.google.com/document/d/1GHZ0fWeV1UIVV027wy96n-WUf_wvGrK1WuG_R5icZ7c/edit
-
-- Create a whatsapp group easily: http://joingroupchat.com, a completely free-to-use website that makes it easier to connect people through WhatsApp. The website lets group admins create custom and password protected (optional) WhatsApp group chat links. Contact: olivier@joingroupchat.com.
 
 
