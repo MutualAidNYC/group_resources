@@ -18,7 +18,7 @@ Best practices are also shared, for example, MutualAid.NYC has put its mapping c
 Feel free to send a pull request, or contact me directly to add resources to this list. I chose GitHub because it allows anyone to edit and add to the directory. There is also a version of this on my own website that I will keep aligned with this repo, for those who would prefer to read it in a blog post format. Any other ideas for using a platform where people can contribute and even comment on resources would be useful (for example, i am happy to create a DocuWiki if people prefer that format).
 
 ## Acknowledgements
-The bulk of this resource list was collected by Hayley Brown for the Mutual Aid US group.
+The bulk of this resource list was collected by Hannah Brown for the Mutual Aid US group.
 
 ## Warning
 The resources shared here have not been validated as best practices. Join the mutual aid US slack group or contact the resource creators directly if you are unsure if they could apply to your area. It may be helpful to always seek out an existing user before adopting any of these resources so you know their limitations or where you may need to customise your implementation.
