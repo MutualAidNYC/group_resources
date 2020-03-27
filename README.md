@@ -2,8 +2,6 @@ Resources to support Mutual Aid groups to get started and manage ongoing operati
 
 ## Goals:	
 - To provide a directory of resources to support Mutual Aid groups to get up and running quickly
-- To assist Mutual Aid networks move towards using common data models so that existing datasets can be plugged in quickly
-- To assist Mutual Aid networks move towards being able to adopt APIs to connect data and automate as much as possible as needs grow
 
 ## Description
 This GitHub lists resources for mutual aid groups that want to set up quickly, using the practices and models that other groups have used. Over time, it is hoped this list can help identify common data models that groups are using to categorise: 
@@ -27,6 +25,8 @@ The resources shared here have not been validated as best practices. Join the mu
 - One of the best maintained databases of resources for mutual aid groups can be found here:
 https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=832179775
 It was created by Database by Shadia Fayne Wood. While the below lists repeat many of these resources organised into the categories below, keep an eye on this resource as it is being added to regularly.
+
+- Mutual Aid Medford and Somerville have a great set of resources for a non-tech volunteer group to get up and running: https://mutualaidmamas.com/
 
 - Another awesome resource is Bree Gaddy’s Drive of resources: https://drive.google.com/drive/u/0/folders/1rJhGg9OZ4tFFGYRuvXnNaCTkWSCQP5I1
 
@@ -76,7 +76,9 @@ This is not an exhaustive list as it is not the focus of these resources, but if
 - Links to efforts focused on advocating for those at greatest risk of being left behind in covid responses: https://bigdoorbrigade.wordpress.com/
 
 ## Mapping tools to create maps based off information on available resources:
-See MutualAidNYC mapping repo 
+- See MutualAidNYC mapping repo. The code and details for building a map in mapbox that draws on data from an airtable is explained: https://github.com/MutualAidNYC/mapping You can see it in action on the http://mutualaid.nyc  
+
+- Medford and Somerville Mutual Aid has a straightforward resource thaht explains how to use google forms and google docs to  create a map. They provide all queries to cut and paste so non-c oders can replicate a map that matches volunteers with needs and shows available groups in the area: https://docs.google.com/document/d/1ca-sz4DRNvUg8ezcrfd6awH-ahxBDJwnbdzxm4_qDVs/edit
 
 ## Using standard data models to collect and share information:
 Using open referral standards with airtable: https://openreferral.org/delivering-open-referral-solutions-with-airtable/
