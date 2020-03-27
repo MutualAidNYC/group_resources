@@ -1,9 +1,9 @@
 Resources to support Mutual Aid groups to get started and manage ongoing operations 
 
 ## Goals:	
-- To provide a directory of resources to support Mutual Aid networks get up and running quickly
-- To assist Mutual Aid groups move towards using common data models so that existing datasets can be plugged in quickly
-- To assist Mutual Aid groups move towards being able to adopt APIs to connect data and automate as much as possible as needs grow
+- To provide a directory of resources to support Mutual Aid groups to get up and running quickly
+- To assist Mutual Aid networks move towards using common data models so that existing datasets can be plugged in quickly
+- To assist Mutual Aid networks move towards being able to adopt APIs to connect data and automate as much as possible as needs grow
 
 ## Description
 This GitHub lists resources for mutual aid groups that want to set up quickly, using the practices and models that other groups have used. Over time, it is hoped this list can help identify common data models that groups are using to categorise: 
