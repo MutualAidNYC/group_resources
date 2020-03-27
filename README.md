@@ -32,6 +32,8 @@ It was created by Database by Shadia Fayne Wood. While the below lists repeat ma
 
 - How to set up a neighborhood pod: https://docs.google.com/document/u/0/d/1j8ADhLEuKNDZ1a_opmzudywJPKMXcNKu01V1xY2MiIA/mobilebasic
 
+- simple tips for neighborhood pods/groups from NYC Uptown Coronavirus Group: https://docs.google.com/document/d/1zFaOuHZDsgxKcgKnWa51WgC-CHI3XJiLmkQfHEnFh-g/edit
+
 - AARP suggestions: https://aarpcommunityconnections.org/starting-a-mutual-aid-group/
 
 - This list looks like it is from the UK and has a table of resources and templates, but the link was broken when i tried: http://www.covid-19list.com/
